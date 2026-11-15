@@ -1,1 +1,1 @@
-![My Git Koi](./git-koi.gif)
+<img src="./git-koi.gif" alt="My Git Koi" width="300">
