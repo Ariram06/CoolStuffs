@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Git Koi
-        uses: yalongwastaken/git-profile-koi@v1
+        uses: yalongwastaken/git-koi@v1
         # The Action runs automatically using its built-in token
         
       - name: Commit and push changes
