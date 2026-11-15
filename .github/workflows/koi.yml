@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Git Koi
-        uses: yalongwastaken/git-profile-koi@v1.0.2 # Fixed repository name and version
+        uses: yalongwastaken/git-koi@v1 # Fixed: Pointing to the correct repository name
 
       - name: Commit and push changes
         run: |
